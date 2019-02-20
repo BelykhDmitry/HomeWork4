@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/option1"
+        android:icon="@drawable/ic_replay_black_24dp"
+        android:title="Task 1" />
+    <item
+        android:id="@+id/option2"
+        android:icon="@drawable/ic_replay_black_24dp"
+        android:title="Task 2" />
+    <item
+        android:id="@+id/option3"
+        android:icon="@drawable/ic_replay_black_24dp"
+        android:title="Task 3" />
+    <item
+        android:id="@+id/option4"
+        android:icon="@drawable/ic_replay_black_24dp"
+        android:title="Task 6" />
+</menu>
